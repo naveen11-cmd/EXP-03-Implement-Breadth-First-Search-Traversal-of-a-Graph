@@ -121,4 +121,9 @@ Sample Input :
 2 4 
 3 4 
 Sample Output: 
-['0', '1', '2', '3', '4'] 
+['0', '1', '2', '3', '4']
+
+Result:
+
+Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
+
